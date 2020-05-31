@@ -114,5 +114,4 @@ public class Ventana extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     // End of variables declaration//GEN-END:variables
 private DefaultComboBoxModel modeloComboBox;
-private DefaultListModel modeloLista;
 }
